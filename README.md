@@ -55,6 +55,6 @@ Dataset contains 7 columns:
 ## Author
 
 Steve Eckardt  
-Analysis and evaluation of chatbot data Open Avenues and Businessolver Internship  
 September 2022 - October 2022  
-This project is for educational and portfolio purposes.
+Analysis and evaluation of chatbot data, Open Avenues and Businessolver Internship  
+This project is for educational and portfolio purposes.  
