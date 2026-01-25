@@ -55,3 +55,5 @@ Dataset contains 7 columns:
 ## Author
 
 Steve Eckardt  
+Analysis and evaluation of chatbot data Open Avenues and Businessolver Internship  
+September 2022-October 2022  
